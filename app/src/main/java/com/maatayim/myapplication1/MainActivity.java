@@ -30,10 +30,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        
-        if (a == null){
 
-        }
     }
 
 

@@ -5,5 +5,5 @@ package com.maatayim.myapplication1;
  */
 public class AAA {
 
-    public static final String AAA = "sadasd"; 
+    public static final String AAA = "sadasd";
 }
